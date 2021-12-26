@@ -1,2 +1,2 @@
 # wp-tips
-Tips for WP
+Go into the folders for WordPress Tips
