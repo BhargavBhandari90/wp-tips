@@ -30,3 +30,14 @@ function custom_every_minute_cronjob() {
 	error_log( date( 'Y-m-d H:i:s', time() ) );
 	add_option( 'custom_crone_run_at', date( 'Y-m-d H:i:s', time() ) );
 }
+
+/**
+ * Clear cron scedular.
+ *
+ * @return void
+ */
+function custom_deactivation() {
+	wp_clear_scheduled_hook( 'custom_every_minute_event' );
+}
+
+register_deactivation_hook( __FILE__, 'custom_deactivation' );
