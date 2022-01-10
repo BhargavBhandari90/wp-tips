@@ -1,7 +1,5 @@
 <?php
 
-<?php
-
 /**
  * Read file content using WP_Filesystem.
  *
