@@ -15,3 +15,6 @@ In this, I am chaging `post` post type's permalink
 
 ![image](https://user-images.githubusercontent.com/19459637/147411129-13980750-d22b-4790-8088-8cd31fbe8e00.png)
 
+## Video Explanation
+
+https://youtu.be/qWHy-0Yq1Ag
