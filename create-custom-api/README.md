@@ -9,3 +9,7 @@
   `yoursite.com/wp-json/myplugin/v1/acf-books`
 
 - It will get the result based on post meta key and meta value passed API arguments
+
+## Video Explanation
+
+https://www.youtube.com/watch?v=GZK1dUhk9PQ&list=PL3oytveTy2Cc4lam--gEZFjqPyoxM_TLb
