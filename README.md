@@ -3,7 +3,7 @@ Go into the folders for WordPress Tips
 
 
 ## Twitter
-https://twitter.com/bhargavbhandari
+https://twitter.com/BuntyWP
 
 ## YouTube
 https://lnkd.in/gs3i6Me
